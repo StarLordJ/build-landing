@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="93px" height="93px" viewBox="0 0 93 93" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <image width="105" height="77" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAABNCAYAAAClv0oaAAAABHNCSVQICAgIfAhkiAAAAwhJREFUeJztnc2RgzAMhV+2hBxpghZCC+GUa+gg9D/shcxkWXCMrT/b+mZ8NQLpyQ/HywIG6ft+AbBox+GEWQAsa7Ica0zT9FaRq8kwf5L0fD6bT9RFO4Ad9pJiMU4xfrQD+MTXoDLYrkcLgKXrOk+eBeZ53k0Q3ECYIpikYRiaTZSlBTkmCZbiFcOEcYhVydoSm8NKZZ55+FZiFkNdSa2qoyhWex09WrTjFlpHykO3ELcYqu1uHMckVbRmx7UrMudha8cuhrpxSMUNhwBnDcPBaALNlkHxkJtoeSrtbv31NZtW7LhWJVI+3OrVVKxxeNOaHRfh47gW5agacSVdr1fyOWu34zWsSW+qXZtU1qSu6zQu6yRAui7VfNKo9JfZLVW2PDULPs8z+Zypu+rW0a48V1MEqi+zwzCQz1mjHbdQda6mL6hvC7kdLwe34wGstAVveQHU2x0ATNNEPmdNdtxStbmaDjChJADo+558zlrsuLVKczXtYEZJgNvxknA7vsFiK/CWt8FUuwOAcRw55ixaTVYrzNX0gTklAW7HS4LUQLRy2lUUogP9VZzPM9nuAODxeJDPWaodt76YuoGAYSUBbsfflFBVzavJtJIAt+NFsP5pi9vxHJisssRoCvbPnO18PDd7lGrHTyP8/e6q1HS/3xcppyl2sxxrk6QdX68VHK/XizaezUWlKFVN0fFQmxrxJHH8vS2nHY/4rixf8excXBLSJDHbcVWVV5MkMMVP8WqS7JoPJCxGZgvZHUx2XLWAVJMUiMGMmihf8E9/4idgI0WJsbNnB7EdJ43t7G7w0Y1o7CpzFAfVfZDGFr0LHurbJf5Gs0cNu+NiPT0GjpZHaMfl18vIhVAD8kQZjStM7J6Z0q6yVTWRxRP7XKWr8AwcSsr+F3W3241URd/cTEqwkk6PszBy74MqtkvI3aVeRERR5Nv6G3LbHtFJp2ChZMuU6mO4nDF+G7mJytl5ONy34/gpgCNZ0ucqct4DU57pvwRxvG9EjBQ04iSJ/+SmsKPN3ivNN6X+AqgJpZoSTMCTAAAAAElFTkSuQmCC" id="img_1" />
+  </defs>
+  <g id="иконка/лого">
+    <use xlink:href="#img_1" fill="#FFFFFF" stroke="none" transform="matrix(0.6761905 0 0 0.6753247 11 18)" />
+  </g>
+</svg>
